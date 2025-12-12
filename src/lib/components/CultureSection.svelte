@@ -2,18 +2,18 @@
   const cards = [
     {
       title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      subtitle: "We're an Extension of Your Team.",
+      image: "/generated/image-corporate-real-estate-professionals-coll-1765573359643-6.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Fragment Services...",
+      subtitle: "We Deliver End-to-End Integration.",
+      image: "/generated/image-diverse-business-team-reviewing-architec-1765573362278-7.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Execute...",
+      subtitle: "We Transform Challenges Into Advantages.",
+      image: "/generated/image-global-business-professionals-in-modern--1765573365184-8.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      Corporate real estate directors face a common challenge: fragmented vendor relationships that drain resources. We consolidate everything under one roof, becoming your trusted partner from strategy through execution.
     </p>
   </div>
 

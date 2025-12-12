@@ -1,28 +1,28 @@
 <script lang="ts">
   const photos = [
     {
-      title: "Fitness Meets Work",
-      desc: "Stay healthy with our dedicated gym and personal training part of our employee wellness program.",
-      img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+      title: "Collaborative Excellence",
+      desc: "Our people-first approach creates an environment where ideas shape the future of corporate real estate.",
+      img: "/generated/image-corporate-office-team-working-together-i-1765573371023-10.webp"
     },
     {
-      title: "Your Social Hub",
-      desc: "Located in vibrant city centers, our offices are places for connection and face-to-face collaboration.",
-      img: "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?auto=format&fit=crop&q=80&w=400"
+      title: "Transparency & Trust",
+      desc: "Commitment to transparency and client success drives all our operations, building lasting partnerships.",
+      img: "/generated/image-professional-business-meeting-in-modern--1765573373836-11.webp"
     },
     {
-      title: "Fueling Creativity",
-      desc: "We care about good food—our in-house chef ensures everyone stays energized and inspired.",
-      img: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400"
+      title: "Inclusive Culture",
+      desc: "Recognized as one of India's Top 50 Best Workplaces for Women, we foster trust-based, inclusive teams.",
+      img: "/generated/image-diverse-corporate-team-celebrating-succe-1765573376590-12.webp"
     }
   ];
 </script>
 
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-xl mb-16">
-    <h3 class="text-lg font-bold mb-2">We focus on people, not just projects.</h3>
+    <h3 class="text-lg font-bold mb-2">We focus on people, not just portfolios.</h3>
     <p class="text-gray-500 text-sm leading-relaxed">
-      In a world of digital meetings, we value face-to-face connections. Our culture is built on trust, freedom, and support, fostering personal growth and collaboration that goes beyond just completing tasks—it's about enjoying the journey together.
+      Our culture is built on transparency, collaboration, and a people-first philosophy. Led by CEO Shrinivas Rao—recognized as one of India's Top 50 Great People Managers—we create inclusive, trust-based workplaces where every team member contributes to transforming corporate real estate challenges into business advantages.
     </p>
   </div>
 

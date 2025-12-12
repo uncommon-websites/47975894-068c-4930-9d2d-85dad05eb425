@@ -4,30 +4,30 @@
   const steps = [
     {
       id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      title: "Strategic Advisory & Market Intelligence",
+      text: "We begin by understanding your business objectives and real estate challenges. Through comprehensive market research and portfolio analysis, we identify opportunities to optimize your corporate real estate strategy and align it with your business goals.",
+      tags: ["Portfolio Analysis", "Market Research", "Site Selection", "Lease Administration", "Cost Optimization", "Risk Assessment"],
       graphic: "lines"
     },
     {
       id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      title: "Integrated Planning & Design",
+      text: "Our team develops comprehensive real estate strategies that balance flexibility, cost efficiency, and employee experience. We create actionable roadmaps for workspace transformation, consolidation, or expansion that drive business value.",
+      tags: ["Space Planning", "Workplace Strategy", "Design & Build", "Project Management", "Sustainability Services", "Technology Integration"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "End-to-End Execution & Delivery",
+      text: "From concept to completion, we manage every aspect of your real estate projects. Our global team delivers on time and on budget, whether it's a single office relocation or a multi-location portfolio transformation.",
+      tags: ["Construction Management", "Tenant Representation", "Transaction Management", "Vendor Coordination", "Quality Assurance", "Move Management"],
       graphic: "circle-top"
     },
     {
       id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      title: "Ongoing Management & Optimization",
+      text: "Our partnership doesn't end at project completion. We provide continuous support through facility management, portfolio optimization, and strategic advisory to ensure your real estate continues to drive business performance.",
+      tags: ["Facility Management", "Portfolio Optimization", "Performance Analytics", "Compliance Management", "Continuous Improvement", "Strategic Advisory"],
       graphic: "circle-waves"
     }
   ];
@@ -63,7 +63,7 @@
   });
 </script>
 
-<section class="bg-[#1a1a40] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
+<section class="bg-[#0a0a0a] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
   <div class="max-w-screen-2xl mx-auto flex flex-col md:flex-row gap-12">
     
     <!-- Sticky Navigation -->
